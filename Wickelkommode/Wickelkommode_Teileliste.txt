@@ -65,6 +65,4 @@ Toom
         -> 2x Rückteil Schublade groß 461x255x18
         -> 1x Front Schublade groß 425x237x18
         -> 1x Front Schublade klein 425x213x18
-        
-
  
