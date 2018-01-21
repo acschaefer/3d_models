@@ -1,0 +1,70 @@
+IKEA
+    - 6x Griff Möllarp
+
+Toom
+    - 1x Buchenleimholzplatte 1200x800x28
+        -> Frontleiste Wickelaufsatz 1182x18x28
+        -> Deckplatte 1180x750x28
+    - Holzzuschnitt universal
+        -> Wickelplatte 1182x770x18
+    - 1x Buchenleimholzplatte 800x300x18
+        -> 2x Wickelaufsatz Seitenteil 788x146x18
+    - 1x Buchenleimholzplatte 1200x200x18
+        -> 1x Wickelaufsatz Rückteil 1182x146x18
+        -> 1x Blende 992x44x18
+    - Holzzuschnitt Buchenleimholz 18
+        -> 1x Rückteil 992x817x18
+        -> 1x Blende 992x44x18
+        -> 1x Mittelteil 817x675x18
+        -> 2x Seitenteil 817x628x18
+
+    - 6x Profilleiste Buche, optimal 50x20 bis minimal 20x20
+        -> 1x 600x(50...20)x20 Schubladenträger
+
+    - 2x Buchenleimholzstollen 2500x44x44
+        -> 2x Fuß 932x44x44
+
+    - 3x Buchenkantholz 950x20x20
+        -> 1x Leiste 817
+        -> 2x Leiste 44
+    - 2x Buchenkantholz 950x20x20
+        -> 1x Leiste 817
+    - 2x Buchenkantholz 950x20x20
+        -> 1x Leiste 508
+        -> 1x Leiste 196
+        -> 1x Leiste 148
+    - 1x Buchenkantholz 950x20x20
+        -> 1x Leiste 508
+        -> 2x Leiste 185
+    - 2x Buchenkantholz 950x20x20
+        -> 2x Leiste 367
+        -> 1x Leiste 136
+
+    - 1x Buchenleimholzplatte 1000x600x18
+        -> 3x Seitenteil Schublade klein 600x231x18
+        -> 1x Seitenteil Schublade groß 600x255x18
+    - 1x Buchenleimholzplatte 1200x600x18
+        -> 5x Seitenteil Schublade klein 600x231x18
+    - 3x Buchenleimholzplatte 1200x600x18
+        -> 2x Boden Schublade 600x425x18
+        -> 1x Seitenteil Schublade groß 600x255x18
+
+    - 1x Buchenleimholzplatte 1200x500x18
+        -> 3x Rückteil Schublade klein 461x231x18
+        -> 1x Front Schublade klein 425x213x18
+        -> 1x Front Schublade groß 425x237x18
+    - 1x Buchenleimholzplatte  1000x500x18
+        -> 3x Blende Schublade klein 492x231x18
+        -> 1x Blende Schublade groß 492x255x18
+    - 1x Buchenleimholzplatte  1200x500x18
+        -> 1x Blende Schublade klein 492x231x18
+        -> 1x Rückteil Schublade klein 461x231x18
+        -> 1x Blende Schublade groß 492x255x18
+        -> 2x Front Schublade klein 425x213x18
+    - 1x Buchenleimholzplatte 1000x500x18
+        -> 2x Rückteil Schublade groß 461x255x18
+        -> 1x Front Schublade groß 425x237x18
+        -> 1x Front Schublade klein 425x213x18
+        
+
+ 
