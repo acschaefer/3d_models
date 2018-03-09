@@ -1,0 +1,198 @@
+solid cls_heater_backplate
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex 31.0 35.0 0.0
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex 0.0 35.0 0.0
+  endloop
+endfacet
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex 31.0 35.0 0.0
+    vertex 0.0 3.0 7.049916206369744e-16
+  endloop
+endfacet
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex 0.0 3.0 7.049916206369744e-16
+    vertex 31.0 35.0 0.0
+    vertex 0.0 0.0 0.0
+  endloop
+endfacet
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 31.0 35.0 0.0
+    vertex 31.0 0.0 0.0
+  endloop
+endfacet
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex -0.75 7.500000000000007 7.049916206369744e-16
+  endloop
+endfacet
+facet normal -1.013898811811308e-17 -6.234641413384785e-18 -1.0
+  outer loop
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex 0.0 3.0 7.049916206369744e-16
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 0.0 3.0 1.9999999999999998
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 3.0 1.9999999999999998
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 0.0 7.500000000000007 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 7.500000000000007 1.9999999999999998
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 0.0 35.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 35.0 1.9999999999999998
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 31.0 35.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 3.0 1.9999999999999998
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex -0.75 3.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex 0.0 3.0 1.9999999999999998
+    vertex 0.0 7.500000000000007 1.9999999999999998
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 31.0 35.0 0.0
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 31.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 31.0 35.0 0.0
+    vertex 31.0 35.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 31.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 31.0 0.0 1.9999999999999998
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 3.0 1.9999999999999998
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 3.0 1.9999999999999998
+    vertex 0.0 3.0 7.049916206369744e-16
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 35.0 1.9999999999999998
+    vertex 31.0 35.0 0.0
+    vertex 0.0 35.0 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 31.0 35.0 0.0
+    vertex 0.0 35.0 1.9999999999999998
+    vertex 31.0 35.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 35.0 1.9999999999999998
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex 0.0 7.500000000000007 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex 0.0 35.0 1.9999999999999998
+    vertex 0.0 35.0 0.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex -0.75 3.0 1.9999999999999998
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex -0.75 7.500000000000007 7.049916206369744e-16
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex -0.75 7.500000000000007 7.049916206369744e-16
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 0.0 7.500000000000007 7.049916206369744e-16
+    vertex -0.75 7.500000000000007 1.9999999999999998
+    vertex 0.0 7.500000000000007 1.9999999999999998
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 0.0 3.0 1.9999999999999998
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex 0.0 3.0 7.049916206369744e-16
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex -0.75 3.0 7.049916206369744e-16
+    vertex 0.0 3.0 1.9999999999999998
+    vertex -0.75 3.0 1.9999999999999998
+  endloop
+endfacet
+endsolid cls_heater_backplate
